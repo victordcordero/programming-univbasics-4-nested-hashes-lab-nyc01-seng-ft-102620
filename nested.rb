@@ -19,6 +19,7 @@ def hopper
 end
 
 programmer_hash[:grace_hopper][:languages]
+hopper
 
 def alan_kay_is_known_for
 programmer_hash[:alan_kay][0]
