@@ -21,7 +21,7 @@ end
 programmer_hash[:grace_hopper][:known_for]
 end
 
-programmer_hash
+hopper
 
 
 def alan_kay_is_known_for
