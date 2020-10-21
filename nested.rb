@@ -18,7 +18,7 @@ def hopper
 
 end
 
-hopper[:grace_hopper]
+hopper[:grace_hopper][:known_for]
 
 def alan_kay_is_known_for
 programmer_hash[:alan_kay][0]
